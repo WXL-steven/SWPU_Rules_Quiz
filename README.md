@@ -24,7 +24,7 @@
 
 应用已部署在Firebase Hosting上，访问链接：
 
-[https://swputest.web.app/#/](https://swputest.web.app/#/)
+[https://swputest.web.app](https://swputest.web.app/#/)
 
 ## 许可证
 
