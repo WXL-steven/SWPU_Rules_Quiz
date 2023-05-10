@@ -26,6 +26,4 @@
 
 [https://swputest.web.app/#/](https://swputest.web.app/#/)
 
-## 许可证
-
-本项目采用[GNU General Public License v3.0](LICENSE)许可证。
+欢迎使用并为项目贡献！
